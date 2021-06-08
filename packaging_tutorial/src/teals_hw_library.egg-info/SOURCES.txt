@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/example_pkg/__init__.py
+src/teals_hw_library.egg-info/PKG-INFO
+src/teals_hw_library.egg-info/SOURCES.txt
+src/teals_hw_library.egg-info/dependency_links.txt
+src/teals_hw_library.egg-info/top_level.txt
